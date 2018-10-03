@@ -3,7 +3,7 @@
 # Crello-api
 This is a small clone of Trello, made in two small applications: rails-api (this repo) as a backend and [crello-front](https://github.com/cre-o/crello-front) application on a frontend.
 
-![preview](https://user-images.githubusercontent.com/723379/46389214-63d66d00-c6d9-11e8-89c9-2f40287be8b5.png)
+![preview](https://user-images.githubusercontent.com/723379/46389281-a26c2780-c6d9-11e8-84c3-83432c56ed17.png)
 
 ## It uses
 * ruby 2.3.1
